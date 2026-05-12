@@ -1,0 +1,81 @@
+[ 1/41] NL    Nedarbo lygis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[ 2/41] IBD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[ 3/41] LLS   Ligoninių lovų skaičius
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[ 4/41] MPM   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[ 5/41] MMA   Žmonių uždirbančių > MMA dalis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[ 6/41] EIS   Įskaitinių eismo įvykių skaičius
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[ 7/41] VTP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[ 8/41] KGP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[ 9/41] OUP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[10/41] KPD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[11/41] GVT   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[12/41] VBN   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[13/41] CTS   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[14/41] NZP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[15/41] VTD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[16/41] OIT   Į orą išmetamų teršalų kiekis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[17/41] EDD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[18/41] NDU   Vidutinis neto darbo užmokestis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[19/41] TUI   Tiesioginės užsienio investicijos gyv.
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[20/41] MIG   Materialinės investicijos gyv.
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[21/41] PVG   Pridėtinė vertė gyventojui
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[22/41] UGD   Užimtų gyventojų dalis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[23/41] NM    Neto migracija
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[24/41] SLD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[25/41] DAG   Darbingo amžiaus dalis
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[26/41] PAG   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[27/41] USS   Ūkio subjektų skaičius / darb.amž.
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[28/41] GSM   Gyventojų skaičius miestuose
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[29/41] GSK   Gyventojų skaičius kaimuose
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[30/41] KGD   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[31/41] M     Miškingumas
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[32/41] ZNP   Žemės ūkio naudmenų plotas
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[33/41] RIP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[34/41] NII   Išžvalgyti kietųjų iškasenų ištekliai
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[35/41] INI   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[36/41] PVI   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[37/41] KNI   Kietųjų iškasenų gavyba
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
+[38/41] NG    SKIP — no DATAFLOW_ID (likely GIS-computed)
+[39/41] PVA   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[40/41] STP   SKIP — no DATAFLOW_ID (likely GIS-computed)
+[41/41] KPO   Kultūros paveldo objektai 20 km²
+      WARN: could not auto-detect geo codelist
+      PARSE ERROR or empty: no observations
