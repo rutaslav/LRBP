@@ -4,32 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979eda35-31dd-4384-bf11-fe0de58c668b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LRBP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_discover_dataflows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_fetch_values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_assemble_final_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/LRBP Visi Rodilliai  - sutvarkyti commas.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/LRBP Visi Rodilliai  - sutvarkyti dots.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/VR2016-2026.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/indekso skaičiavimai.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/visi GIS_rodikliai specifikacija.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSV/visi GIS_rodikliai.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataflow_candidates.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataflow_catalog.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fetch_log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raw_values_long.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xlsx/I dalis. 5.1-5.9 rodikliu sąrašas.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xlsx/I dalis. 5.10 Bendra rodiklių sistema.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xlsx/Rodiklių suvestinė pagal išvadinius aspektus 2018-12-28.xlsx" afterDir="false" />
+    <list default="true" id="979eda35-31dd-4384-bf11-fe0de58c668b" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +60,47 @@
       <option name="presentableId" value="Default" />
       <updated>1778525178701</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1778569104543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778569104543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1778569177224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778569177224</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1778569197564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778569197564</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
