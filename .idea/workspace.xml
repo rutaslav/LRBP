@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="979eda35-31dd-4384-bf11-fe0de58c668b" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/I dalis. 5.1-5.9 rodikliu sąrašas.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/I dalis. 5.10 Bendra rodiklių sistema.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LRBP Visi Rodilliai  - sutvarkyti commas.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LRBP Visi Rodilliai  - sutvarkyti dots.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rodiklių suvestinė pagal išvadinius aspektus 2018-12-28.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VR2016-2026.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indekso skaičiavimai.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visi GIS_rodikliai specifikacija.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visi GIS_rodikliai.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRBP_Visi_Rodilliai__-_sutvarkyti_dots.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRBP_base_indicators_2016_2025.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LRBP_indices_2016_2025_2026.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/LRBP Visi Rodilliai  - sutvarkyti commas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/LRBP Visi Rodilliai  - sutvarkyti dots.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/VR2016-2026.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/indekso skaičiavimai.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/visi GIS_rodikliai specifikacija.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSV/visi GIS_rodikliai.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlsx/I dalis. 5.1-5.9 rodikliu sąrašas.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlsx/I dalis. 5.10 Bendra rodiklių sistema.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlsx/Rodiklių suvestinė pagal išvadinius aspektus 2018-12-28.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LRBP Visi Rodilliai  - sutvarkyti dots.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +43,7 @@
     "Python.01_discover_dataflows.executor": "Run",
     "Python.02_fetch_values.executor": "Run",
     "Python.03_assemble_final_csv.executor": "Run",
+    "Python.diagnose_osp.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
