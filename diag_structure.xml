@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mes:Structure xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:str="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message https://osp-rs.stat.gov.lt/xsd_scheme/SDMXMessage.xsd http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common https://osp-rs.stat.gov.lt/xsd_scheme/SDMXCommon.xsd http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/generic https://osp-rs.stat.gov.lt/xsd_scheme/SDMXDataGeneric.xsd">
+   <mes:Header>
+      <mes:ID>3E86EA53135D41F2B48569F844D17191</mes:ID>
+      <mes:Test>true</mes:Test>
+      <mes:Prepared>2026-05-15T12:48:02.225000000+03:00</mes:Prepared>
+      <mes:Sender id="unknown" />
+      <mes:Receiver id="not_supplied" />
+   </mes:Header>
+   <mes:Structures><str:Dataflows><str:Dataflow id="S3R629_M3010217" urn="urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=LSD:S3R629_M3010217(1.0)" isExternalReference="false" agencyID="LSD" isFinal="false" version="1.0"><com:Name xml:lang="lt">S3R629 - Medianinis gyventojų amžius metų pradžioje</com:Name><com:Name xml:lang="en">S3R629 - Median age of the population at the beginning of the year</com:Name><com:Description xml:lang="lt">Administracinė teritorija | Lytis (1970 - 2025) (Atnaujinta: 2025-07-18)</com:Description><com:Description xml:lang="en">Administrative territory | Sex (1970 - 2025) (Was renewed: 2025-07-18)</com:Description><str:Structure><Ref id="M3010217" package="datastructure" class="DataStructure" agencyID="LSD" version="1.0"></Ref></str:Structure></str:Dataflow></str:Dataflows>
+  </mes:Structures>
+</mes:Structure>
